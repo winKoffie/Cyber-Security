@@ -10,7 +10,7 @@ CIA Traid are three main goals
 	- "Clean desk policies" protect against snooping.
 2. Dumpster Diving
 	- Dumpster diving is to dump data anywere or dustbin.
-	- "Shedding" protects against dumpster diving.
+	- "Shredding" protects against dumpster diving.
 3. Eavesdropping
 	- listing sensitive information
 	- "Rules about sensitive conversations" prevent eavesdropping
